@@ -1,0 +1,8 @@
+PS G:\My Drive\usb\Δ\2026_fall\PF\github_code\PF-Fa2026\Mid01\InputOutputQuestons> gcc .\io01.c -o .\io01.exe
+PS G:\My Drive\usb\Δ\2026_fall\PF\github_code\PF-Fa2026\Mid01\InputOutputQuestons> .\io01.exe
+
+0
+1
+100
+0
+1 0 100 0

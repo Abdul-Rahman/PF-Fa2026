@@ -1,0 +1,4 @@
+PS G:\My Drive\usb\Δ\2026_fall\PF\github_code\PF-Fa2026\week05\io_based> gcc .\io02.c -o .\io02.exe
+PS G:\My Drive\usb\Δ\2026_fall\PF\github_code\PF-Fa2026\week05\io_based> .\io02.exe  
+0 4 0.000000 4.000000
+PS G:\My Drive\usb\Δ\2026_fall\PF\github_code\PF-Fa2026\week05\io_based> 
